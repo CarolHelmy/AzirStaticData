@@ -15,7 +15,17 @@ const routeConstants = {
   RESET_PASSWORD: "/reset_pwd",
   MAIL_VERIFY: "/mail_verify",
   FAQ: "/faq",
+  ABOUT: "/about",
   SUPPORT: "/support",
+  BLOG: "/blog",
+  BLOG_DETAIL: "/blog/details",
+  // dashboard
+  DASHBOARD: "/dashboard",
+  ORDER_HISTORY: "/dashboard/order_history",
+  ORDER_HISTORY_DETAILS: "/dashboard/order_history/details",
+  CARDS_ADDRESS: "/dashboard/cards_address",
+  SETTING: "/dashboard/setting",
+  BROWSE_HISTORY: "/dashboard/browse_history",
   PAGE_NOT_FOUND: "/*",
 };
 
